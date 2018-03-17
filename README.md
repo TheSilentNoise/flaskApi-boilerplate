@@ -5,7 +5,7 @@
 Clone the repo
 
 ```
-$ git clone https://[ Add your bitbucket username here]@bitbucket.org/noodleai/flask-boilerplate.git
+$ git clone https://github.com/TheSilentNoise/flaskApi-boilerplate.git
 $ cd flask-boilerplate
 ```
 
